@@ -1,2 +1,1 @@
-print("U repozitoriju sabor se nalaze hdz, sdp i most.")
-
+print("U repozitoriju sabor se nalaze hdz i sdp")
